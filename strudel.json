@@ -1,25 +1,31 @@
 {
   "_base": "https://raw.githubusercontent.com/peaeyeennkay/sounds-loops/main/",
   "bassloops": [
+    "bassloops/01_D#.mp3",
     "bassloops/02_Bmin.mp3",
     "bassloops/03_Cmin.mp3",
     "bassloops/04_Emin.mp3",
     "bassloops/05_Fmin.mp3",
+    "bassloops/06_A#min.mp3",
     "bassloops/07_Gmin.mp3",
     "bassloops/08_Emin.mp3",
     "bassloops/09_Bmin.mp3",
     "bassloops/10_Amin.mp3",
+    "bassloops/11_D#min.mp3",
     "bassloops/12_Gmin.mp3",
     "bassloops/13_Gmin.mp3",
     "bassloops/14_Cmin.mp3",
     "bassloops/15_Bmin.mp3",
     "bassloops/16_Emin.mp3",
+    "bassloops/17_G#min.mp3",
+    "bassloops/18_A#min.mp3",
+    "bassloops/19_C#min.mp3",
     "bassloops/20_Emin.mp3",
     "bassloops/21_Amin.mp3",
     "bassloops/22_Gmin.mp3",
     "bassloops/23_Gmin.mp3",
     "bassloops/24_Dmin.mp3",
-    "bassloops/25_Emin.mp3",
+    "bassloops/25_Emin.mp3"
   ],
   "fullloops": [
     "fullloops/loop_01.mp3",
@@ -71,10 +77,11 @@
     "fullloops/loop_47.mp3",
     "fullloops/loop_48.mp3",
     "fullloops/loop_49.mp3",
-    "fullloops/loop_50.mp3",
+    "fullloops/loop_50.mp3"
   ],
   "synthloops": [
     "synthloops/26_Dmin.mp3",
+    "synthloops/27_A#min.mp3",
     "synthloops/28_Bmin.mp3",
     "synthloops/29_Cmin.mp3",
     "synthloops/30_Amin.mp3",
@@ -84,16 +91,20 @@
     "synthloops/34_Emin.mp3",
     "synthloops/35_Amin.mp3",
     "synthloops/36_Dmin.mp3",
+    "synthloops/37_F#maj.mp3",
+    "synthloops/38_D#min.mp3",
     "synthloops/39_Cmin.mp3",
     "synthloops/40_Cmin.mp3",
+    "synthloops/41_D#maj.mp3",
     "synthloops/42_Dmaj.mp3",
     "synthloops/43_Dmin.mp3",
     "synthloops/44_Amin.mp3",
     "synthloops/45_Dmin.mp3",
+    "synthloops/46_G#maj.mp3",
     "synthloops/47_Amin.mp3",
     "synthloops/48_Amin.mp3",
     "synthloops/49_Emin.mp3",
-    "synthloops/50_Emin.mp3",
+    "synthloops/50_Emin.mp3"
   ],
   "tb303": [
     "tb303/303_line_01.mp3",
@@ -110,7 +121,7 @@
     "tb303/303_line_12.mp3",
     "tb303/303_line_13.mp3",
     "tb303/303_line_14.mp3",
-    "tb303/303_line_15.mp3",
+    "tb303/303_line_15.mp3"
   ],
   "toploops": [
     "toploops/loop_01.mp3",
@@ -162,6 +173,6 @@
     "toploops/loop_47.mp3",
     "toploops/loop_48.mp3",
     "toploops/loop_49.mp3",
-    "toploops/loop_50.mp3",
+    "toploops/loop_50.mp3"
   ]
 }
